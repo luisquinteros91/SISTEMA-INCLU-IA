@@ -1,0 +1,11 @@
+/includes/conexion.php
+.env
+.env.*
+*.sql
+*.csv
+*.xlsx
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
